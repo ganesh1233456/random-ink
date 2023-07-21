@@ -28,3 +28,6 @@ std = [
     "openbrush/std",
 ]
 ink-as-dependency = []
+
+[profile.dev]
+overflow-checks = false
